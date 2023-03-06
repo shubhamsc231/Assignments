@@ -1,0 +1,14 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  background-color: blue;
+}
+input {
+  border: 3px solid black;
+  font-size: 20px;
+  font-family: "cursive";
+}
+.root {
+  background-color: red;
+}
